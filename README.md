@@ -1,2 +1,1 @@
-# node-note-blog
-博客
+# 个人博客
